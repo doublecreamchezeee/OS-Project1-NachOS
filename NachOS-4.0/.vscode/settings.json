@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "syscall.h": "c",
+        "new": "cpp"
+    }
+}
